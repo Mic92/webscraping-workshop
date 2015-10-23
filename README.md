@@ -29,5 +29,5 @@ $ pip3 install beautifulsoup4 requests
 Python 3.5 [downloaden](https://www.python.org/downloads/)
 
 ```
-$ pip3 install beautifulsoup4 requests
+$ python -m pip install beautifulsoup4 requests
 ```
