@@ -39,8 +39,8 @@ Note:
 ParkenDD Apps:
 <table>
 <tr>
-  <a href="ios-screen.jpeg">
-    <img src="ios-screen.jpeg" height="350" alt="Iphone">
+  <a href="ios-screen.png">
+    <img src="ios-screen.png" height="350" alt="Iphone">
   </a>
 
   <a href="android-screen.png">
