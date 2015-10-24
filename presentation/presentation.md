@@ -7,7 +7,7 @@
 
 
 
-# Ablauf
+## Ablauf
 
 0. [Installation](https://github.com/Mic92/webscraping-workshop/)
 1. Grundlagen
@@ -24,7 +24,7 @@ Note:
 
 
 
-# Motivation
+## Motivation
 
 - Parkplatzübersicht Stuttgart auf Android
 
@@ -34,7 +34,7 @@ Note:
 
 
 
-# Motivation
+## Motivation
 
 ParkenDD Apps:
 <table>
@@ -52,7 +52,7 @@ ParkenDD Apps:
 
 
 
-# Motivation
+## Motivation
 
 - Automatisierung
 - Statistiken/Langzeitdaten
@@ -60,7 +60,7 @@ ParkenDD Apps:
 
 
 
-# Grundlagen
+## Grundlagen
 
 - Was brauchen wir:
   - eine Programmiersprache,  ✓ ([Python](python.org))
@@ -77,7 +77,7 @@ Note:
 
 
 
-# Grundlagen - HTML
+## Grundlagen - HTML
 
 ```html
 <html>
