@@ -128,7 +128,7 @@ Note:
 
 
 
-## Grundlagen
+## Grundlagen - Beispiel
 
 ```python
 #!/usr/bin/env python
@@ -141,4 +141,8 @@ soup = BeautifulSoup(doc.text, 'html.parser')
 rows = soup.select("table.wikitable.sortable tr")
 choice = random.choice(rows)
 print(choice.select("td i a")[0].text)
+```
+
+```bash
+$ python3 random_cage.py
 ```
