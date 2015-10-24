@@ -2,6 +2,8 @@
 
 Folien und Code zum Webscraping workshop auf den [Datenspuren 2015](https://www.datenspuren.de/2015/index.html)
 
+Hier geht es zur [Präsentation](https://mic92.github.io/webscraping-workshop/presentation)
+
 ## Vorbereitung
 
 ### Ubuntu/Debian
