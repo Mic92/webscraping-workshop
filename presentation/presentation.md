@@ -146,3 +146,9 @@ print(choice.select("td i a")[0].text)
 ```bash
 $ python3 random_cage.py
 ```
+
+
+
+## Beispiel
+
+- [Freiburg](http://www.freiburg.de/pb/,Lde/231355.html)
