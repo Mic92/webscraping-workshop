@@ -161,7 +161,7 @@ Luzern: http://www.pls-luzern.ch/de
 
 
 
-## Ihr seit dran
+## Ihr seid dran
 
 - Vorschlag:
   - Bregenz: https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html
