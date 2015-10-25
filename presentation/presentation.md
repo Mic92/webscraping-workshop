@@ -80,8 +80,10 @@ Note:
 ## Grundlagen - HTML
 
 ```html
+<!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8" />
     <title>Präsidenten</title>
   </head>
   <body>
