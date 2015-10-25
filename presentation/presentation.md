@@ -11,7 +11,7 @@
 
 0. [Installation](https://github.com/Mic92/webscraping-workshop/)
 1. Grundlagen
-2. Vorführung am [Beispiel](http://www.freiburg.de/pb/,Lde/231355.html)
+2. Vorführung am [Beispiel](http://www.pls-luzern.ch/de/)
 3. Ihr seit dran:
    - [Bregenz](https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html)
    - [Andere Beispiele](https://github.com/offenesdresden/ParkAPI/issues?q=is%3Aclosed+label%3Anew_data+is%3Aissue)
@@ -118,7 +118,7 @@ Note:
 <tr><td>.class</td> <td>.date</td> <td>Wählte alle Zeilen mit der Klasse .date aus.</td></tr>
 <tr><td>#id</td> <td>#präsidenten</td> <td>Wählt die Tabelle mit der ID Präsident aus.</td></tr>
 <tr><td>element</td> <td>tr</td> <td>Wählt alle Zeilen der Tabelle aus.</td></tr>
-<tr><td>Komplexbeispiel</td> <td>#präsidenten td:first-child</td> <td>1. Spalte der Präsidententabelle</td></tr>
+<tr><td>Komplexbeispiel</td> <td>#präsidenten tr:first-child</td> <td>1. Zeile der Präsidententabelle</td></tr>
 </table>
 
 
@@ -153,4 +153,10 @@ $ python3 random_cage.py
 
 ## Beispiel
 
-- [Freiburg](http://www.freiburg.de/pb/,Lde/231355.html)
+- [Luzern](http://www.pls-luzern.ch/de/)
+
+
+
+## Ihr seit dran
+
+- Vorschlag: [Bregenz](https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html)
