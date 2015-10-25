@@ -160,3 +160,6 @@ $ python3 random_cage.py
 ## Ihr seit dran
 
 - Vorschlag: [Bregenz](https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html)
+- Python Referenz: http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html
+- Beautiful Soup: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Requests: http://docs.python-requests.org/en/latest/

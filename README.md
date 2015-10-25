@@ -4,6 +4,8 @@ Folien und Code zum Webscraping workshop auf den [Datenspuren 2015](https://www.
 
 Hier geht es zur [Präsentation](https://mic92.github.io/webscraping-workshop/presentation)
 
+[Python 3 Schnellreferenz](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
+
 ## Vorbereitung
 
 ### Ubuntu/Debian
