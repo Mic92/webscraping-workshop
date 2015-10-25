@@ -153,13 +153,15 @@ $ python3 random_cage.py
 
 ## Beispiel
 
-- [Luzern](http://www.pls-luzern.ch/de/)
+Luzern: http://www.pls-luzern.ch/de
 
 
 
 ## Ihr seit dran
 
-- Vorschlag: [Bregenz](https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html)
+- Vorschlag:
+  - Bregenz: https://www.bregenz.gv.at/sicherheit-verkehr/verkehr-und-parken/parkleitsystem.html
+  - [Andere Beispiele](https://github.com/offenesdresden/ParkAPI/issues?q=is%3Aclosed+label%3Anew_data+is%3Aissue)
 - Python Referenz: http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html
 - Beautiful Soup: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - Requests: http://docs.python-requests.org/en/latest/
